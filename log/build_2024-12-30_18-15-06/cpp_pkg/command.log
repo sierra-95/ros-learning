@@ -1,0 +1,1 @@
+Invoking command in '/home/michael/Documents/Ros2Humble/build/cpp_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/michael/Documents/Ros2Humble/src/cpp_pkg -DCMAKE_INSTALL_PREFIX=/home/michael/Documents/Ros2Humble/install/cpp_pkg

@@ -9,6 +9,7 @@ setup.py
 ../../build/python_pkg/python_pkg.egg-info/top_level.txt
 ../../build/python_pkg/python_pkg.egg-info/zip-safe
 python_pkg/__init__.py
+python_pkg/first_node.py
 resource/python_pkg
 test/test_copyright.py
 test/test_flake8.py

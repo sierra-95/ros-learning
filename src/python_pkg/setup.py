@@ -20,6 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            "first_node = python_pkg.first_node:main", #Executable = Package.file_name.function_to_execute
         ],
     },
 )

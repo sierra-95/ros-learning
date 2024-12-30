@@ -1,0 +1,35 @@
+[0.636s] Invoking command in '/home/michael/Documents/Ros2Humble/src/python_pkg': PYTHONPATH=/home/michael/Documents/Ros2Humble/build/python_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/michael/Documents/Ros2Humble/install/python_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/python_pkg build --build-base /home/michael/Documents/Ros2Humble/build/python_pkg/build install --record /home/michael/Documents/Ros2Humble/build/python_pkg/install.log --single-version-externally-managed install_data
+[0.882s] running egg_info
+[0.883s] writing ../../build/python_pkg/python_pkg.egg-info/PKG-INFO
+[0.883s] writing dependency_links to ../../build/python_pkg/python_pkg.egg-info/dependency_links.txt
+[0.883s] writing entry points to ../../build/python_pkg/python_pkg.egg-info/entry_points.txt
+[0.884s] writing requirements to ../../build/python_pkg/python_pkg.egg-info/requires.txt
+[0.884s] writing top-level names to ../../build/python_pkg/python_pkg.egg-info/top_level.txt
+[0.885s] reading manifest file '../../build/python_pkg/python_pkg.egg-info/SOURCES.txt'
+[0.886s] writing manifest file '../../build/python_pkg/python_pkg.egg-info/SOURCES.txt'
+[0.886s] running build
+[0.886s] running build_py
+[0.887s] creating /home/michael/Documents/Ros2Humble/build/python_pkg/build
+[0.887s] creating /home/michael/Documents/Ros2Humble/build/python_pkg/build/lib
+[0.887s] creating /home/michael/Documents/Ros2Humble/build/python_pkg/build/lib/python_pkg
+[0.887s] copying python_pkg/first_node.py -> /home/michael/Documents/Ros2Humble/build/python_pkg/build/lib/python_pkg
+[0.887s] copying python_pkg/__init__.py -> /home/michael/Documents/Ros2Humble/build/python_pkg/build/lib/python_pkg
+[0.887s] running install
+[0.887s] running install_lib
+[0.888s] creating /home/michael/Documents/Ros2Humble/install/python_pkg/lib/python3.10/site-packages/python_pkg
+[0.888s] copying /home/michael/Documents/Ros2Humble/build/python_pkg/build/lib/python_pkg/first_node.py -> /home/michael/Documents/Ros2Humble/install/python_pkg/lib/python3.10/site-packages/python_pkg
+[0.888s] copying /home/michael/Documents/Ros2Humble/build/python_pkg/build/lib/python_pkg/__init__.py -> /home/michael/Documents/Ros2Humble/install/python_pkg/lib/python3.10/site-packages/python_pkg
+[0.889s] byte-compiling /home/michael/Documents/Ros2Humble/install/python_pkg/lib/python3.10/site-packages/python_pkg/first_node.py to first_node.cpython-310.pyc
+[0.889s] byte-compiling /home/michael/Documents/Ros2Humble/install/python_pkg/lib/python3.10/site-packages/python_pkg/__init__.py to __init__.cpython-310.pyc
+[0.889s] running install_data
+[0.890s] creating /home/michael/Documents/Ros2Humble/install/python_pkg/share/ament_index
+[0.890s] creating /home/michael/Documents/Ros2Humble/install/python_pkg/share/ament_index/resource_index
+[0.890s] creating /home/michael/Documents/Ros2Humble/install/python_pkg/share/ament_index/resource_index/packages
+[0.890s] copying resource/python_pkg -> /home/michael/Documents/Ros2Humble/install/python_pkg/share/ament_index/resource_index/packages
+[0.890s] copying package.xml -> /home/michael/Documents/Ros2Humble/install/python_pkg/share/python_pkg
+[0.890s] running install_egg_info
+[0.892s] Copying ../../build/python_pkg/python_pkg.egg-info to /home/michael/Documents/Ros2Humble/install/python_pkg/lib/python3.10/site-packages/python_pkg-0.0.0-py3.10.egg-info
+[0.893s] running install_scripts
+[0.914s] Installing first_node script to /home/michael/Documents/Ros2Humble/install/python_pkg/lib/python_pkg
+[0.914s] writing list of installed files to '/home/michael/Documents/Ros2Humble/build/python_pkg/install.log'
+[0.943s] Invoked command in '/home/michael/Documents/Ros2Humble/src/python_pkg' returned '0': PYTHONPATH=/home/michael/Documents/Ros2Humble/build/python_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/michael/Documents/Ros2Humble/install/python_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/python_pkg build --build-base /home/michael/Documents/Ros2Humble/build/python_pkg/build install --record /home/michael/Documents/Ros2Humble/build/python_pkg/install.log --single-version-externally-managed install_data
