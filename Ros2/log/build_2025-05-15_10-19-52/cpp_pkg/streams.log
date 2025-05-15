@@ -1,0 +1,6 @@
+[0.025s] Invoking command in '/home/michael/Documents/AGV/ros-learning/Ros2/build/cpp_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/michael/Documents/AGV/ros-learning/Ros2/install/python_pkg:/opt/ros/humble /usr/bin/cmake --build /home/michael/Documents/AGV/ros-learning/Ros2/build/cpp_pkg -- -j4 -l4
+[0.044s] [0mCMake Error: The current CMakeCache.txt directory /home/michael/Documents/AGV/ros-learning/Ros2/build/cpp_pkg/CMakeCache.txt is different than the directory /home/michael/Documents/Ros2Humble/build/cpp_pkg where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt[0m
+[0.062s] [0mCMake Error: The source directory "/home/michael/Documents/Ros2Humble/src/cpp_pkg" does not exist.
+[0.062s] Specify --help for usage, or press the help button on the CMake GUI.[0m
+[0.064s] gmake: *** [Makefile:267: cmake_check_build_system] Error 1
+[0.500s] Invoked command in '/home/michael/Documents/AGV/ros-learning/Ros2/build/cpp_pkg' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/michael/Documents/AGV/ros-learning/Ros2/install/python_pkg:/opt/ros/humble /usr/bin/cmake --build /home/michael/Documents/AGV/ros-learning/Ros2/build/cpp_pkg -- -j4 -l4
