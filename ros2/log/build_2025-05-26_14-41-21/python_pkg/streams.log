@@ -1,0 +1,28 @@
+[0.941s] Invoking command in '/home/michael/Documents/AGV/ros-learning/ros2/src/python_pkg': PYTHONPATH=/home/michael/Documents/AGV/ros-learning/ros2/build/python_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/michael/Documents/AGV/ros-learning/ros2/install/python_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/python_pkg build --build-base /home/michael/Documents/AGV/ros-learning/ros2/build/python_pkg/build install --record /home/michael/Documents/AGV/ros-learning/ros2/build/python_pkg/install.log --single-version-externally-managed install_data
+[1.271s] running egg_info
+[1.272s] creating ../../build/python_pkg/python_pkg.egg-info
+[1.272s] writing ../../build/python_pkg/python_pkg.egg-info/PKG-INFO
+[1.273s] writing dependency_links to ../../build/python_pkg/python_pkg.egg-info/dependency_links.txt
+[1.273s] writing entry points to ../../build/python_pkg/python_pkg.egg-info/entry_points.txt
+[1.274s] writing requirements to ../../build/python_pkg/python_pkg.egg-info/requires.txt
+[1.274s] writing top-level names to ../../build/python_pkg/python_pkg.egg-info/top_level.txt
+[1.274s] writing manifest file '../../build/python_pkg/python_pkg.egg-info/SOURCES.txt'
+[1.277s] reading manifest file '../../build/python_pkg/python_pkg.egg-info/SOURCES.txt'
+[1.278s] writing manifest file '../../build/python_pkg/python_pkg.egg-info/SOURCES.txt'
+[1.278s] running build
+[1.278s] running build_py
+[1.279s] creating /home/michael/Documents/AGV/ros-learning/ros2/build/python_pkg/build
+[1.279s] creating /home/michael/Documents/AGV/ros-learning/ros2/build/python_pkg/build/lib
+[1.279s] creating /home/michael/Documents/AGV/ros-learning/ros2/build/python_pkg/build/lib/python_pkg
+[1.279s] copying python_pkg/first_node.py -> /home/michael/Documents/AGV/ros-learning/ros2/build/python_pkg/build/lib/python_pkg
+[1.279s] copying python_pkg/__init__.py -> /home/michael/Documents/AGV/ros-learning/ros2/build/python_pkg/build/lib/python_pkg
+[1.280s] running install
+[1.280s] running install_lib
+[1.282s] running install_data
+[1.283s] running install_egg_info
+[1.285s] removing '/home/michael/Documents/AGV/ros-learning/ros2/install/python_pkg/lib/python3.10/site-packages/python_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.287s] Copying ../../build/python_pkg/python_pkg.egg-info to /home/michael/Documents/AGV/ros-learning/ros2/install/python_pkg/lib/python3.10/site-packages/python_pkg-0.0.0-py3.10.egg-info
+[1.289s] running install_scripts
+[1.321s] Installing first_node script to /home/michael/Documents/AGV/ros-learning/ros2/install/python_pkg/lib/python_pkg
+[1.323s] writing list of installed files to '/home/michael/Documents/AGV/ros-learning/ros2/build/python_pkg/install.log'
+[1.365s] Invoked command in '/home/michael/Documents/AGV/ros-learning/ros2/src/python_pkg' returned '0': PYTHONPATH=/home/michael/Documents/AGV/ros-learning/ros2/build/python_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/michael/Documents/AGV/ros-learning/ros2/install/python_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/python_pkg build --build-base /home/michael/Documents/AGV/ros-learning/ros2/build/python_pkg/build install --record /home/michael/Documents/AGV/ros-learning/ros2/build/python_pkg/install.log --single-version-externally-managed install_data
