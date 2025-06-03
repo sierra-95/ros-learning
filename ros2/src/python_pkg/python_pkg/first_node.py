@@ -7,7 +7,7 @@ class MyNode(Node):
     def __init__(self):
         super().__init__('first_py')
         self.counter_ = 0  # Initialize a counter
-        self.get_logger().info('Hello ROS2')  # Log a message to the console
+        self.get_logger().info('Hello ROS2 !')  # Log a message to the console
         self.create_timer(0.5, self.timer_callback)  # Create a timer that calls timer_callback every 0.5 seconds
     
     def timer_callback(self):
